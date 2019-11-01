@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T02:24:02.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="BjCZijPzuqycot8yFPe0" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-01T07:21:36.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="IadusyJsUYRGoL-XBjI7" version="12.1.8" type="github" pages="1">
   <diagram id="4X6jtVIqUVwTG9tQofEE" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="8E4gz0dcKP8BS_eoSMyC-22" value="metring" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="8E4gz0dcKP8BS_eoSMyC-24" value="api mapper" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E4gz0dcKP8BS_eoSMyC-24" value="api engine" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="8E4gz0dcKP8BS_eoSMyC-26" value="owner portal" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,16 +64,16 @@
         <mxCell id="8E4gz0dcKP8BS_eoSMyC-27" value="developer portal" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="290" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="8E4gz0dcKP8BS_eoSMyC-28" value="external interface" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E4gz0dcKP8BS_eoSMyC-28" value="API Gateway" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="540" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="8E4gz0dcKP8BS_eoSMyC-29" value="platform api" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E4gz0dcKP8BS_eoSMyC-29" value="stat engine" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="380" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="8E4gz0dcKP8BS_eoSMyC-30" value="admin portal" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="8E4gz0dcKP8BS_eoSMyC-31" value="connected car api" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E4gz0dcKP8BS_eoSMyC-31" value="API Gateway SDK" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="8E4gz0dcKP8BS_eoSMyC-33" value="rdb" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
